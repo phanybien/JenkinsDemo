@@ -18,7 +18,7 @@ namespace JenkinsDemo.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(b)
         {
             return View();
         }
